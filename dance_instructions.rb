@@ -15,3 +15,5 @@ end
 
 base_footwork
 
+def skip_step_left 
+  puts ""
