@@ -29,4 +29,6 @@ end
 
 skip_step_right
 
+def
+
 skip_step_left
