@@ -22,5 +22,6 @@ def skip_step_left
 end
 
 def skip_step_right
+  puts ""
 
 skip_step_left
