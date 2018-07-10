@@ -22,6 +22,7 @@ def skip_step_left
 end
 
 def skip_step_right
+  puts "Lower right foot to the ground"
   puts ""
 
 skip_step_left
