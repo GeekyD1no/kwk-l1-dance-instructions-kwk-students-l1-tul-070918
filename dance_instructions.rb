@@ -1,8 +1,8 @@
 
 # Code your methods below
 
-def Lower_Body
+def lower_body
   puts "Plant legs far apart, bend knees slightly and keep posture"
 end
 
-Lower_Body
+lower_body
