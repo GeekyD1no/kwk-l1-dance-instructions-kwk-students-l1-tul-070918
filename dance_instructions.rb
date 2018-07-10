@@ -1,9 +1,17 @@
 
 # Code your methods below
 
-def lower_body
+def proper_stance
   puts "Plant legs far apart, bend knees slightly and keep posture"
 end
 
-lower_body
+proper_stance
+
+def base_footwork
+  puts "Lift right foot"
+  puts "Return right foot to the ground"
+  puts "Finishing with a small skip-step backward"
+end 
+
+base_footwork
 
